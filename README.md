@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![encleon's github stats](https://github-readme-stats.vercel.app/api?username=encleon)](https://github.com/encleon/github-readme-stats)
+
+
 <!--
 **encleon/encleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
