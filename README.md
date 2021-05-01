@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![encleon's github stats](https://github-readme-stats.vercel.app/api?username=encleon)](https://github.com/encleon/github-readme-stats)
+[![encleon's github stats](https://github-readme-stats.vercel.app/api?username=encleon?theme=dark)](https://github.com/encleon/github-readme-stats)
 
 
 <!--
