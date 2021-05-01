@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![encleon's github stats](https://github-readme-stats.vercel.app/api?username=encleon?theme=radical)](https://github.com/encleon/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=encleon)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
