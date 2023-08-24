@@ -1,11 +1,11 @@
 ### Hi there 👋
-
+```
+📫 email
+"zncleon@gmail.com"
+🌱 blog
+"www.cnblogs.com/zncleon/"
+```
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zncleon&show_icons=true&theme=transparent)
-
-💻 Coding Activity Logging
-[![Commits Badge](https://badges.pufler.dev/commits/weekly/zncleon)](https://badges.pufler.dev)
-
-
 
 
 <!--
@@ -23,9 +23,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-```
-email
-"zncleon@gmail.com"
-blog
-"www.cnblogs.com/zncleon/"
-```
+
