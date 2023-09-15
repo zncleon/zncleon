@@ -20,4 +20,4 @@ Go      2 hrs 35 mins   ███████████▓░░░░░░�
 
 <!--END_SECTION:waka-->
 
-[![zncleon's github stats](https://github-readme-stats.vercel.app/api?username=zncleon)](https://github.com/anuraghazra/github-readme-stats)
+[![zncleon's github stats](https://github-readme-stats-psi-two-44.vercel.app/api?username=zncleon)](https://github.com/anuraghazra/github-readme-stats)
