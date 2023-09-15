@@ -6,9 +6,11 @@
 🌱 blog
 "www.cnblogs.com/zncleon/"
 ```
+---
 
 ⏱ Weekly coding time
 [![Commits Badge](https://badges.pufler.dev/commits/weekly/zncleon)](https://badges.pufler.dev)
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -21,3 +23,4 @@ Go      2 hrs 35 mins   ███████████▓░░░░░░�
 <!--END_SECTION:waka-->
 
 [![zncleon's github stats](https://github-readme-stats-psi-two-44.vercel.app/api?username=zncleon)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-psi-two-44.vercel.app/api/top-langs/?username=zncleon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
