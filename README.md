@@ -13,10 +13,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 September 2023 - To: 18 September 2023
+From: 12 September 2023 - To: 19 September 2023
 
-C/C++   10 hrs 28 mins  █████████████████▒░░░░░░░   69.22 %
-Go      4 hrs 39 mins   ███████▓░░░░░░░░░░░░░░░░░   30.78 %
+C/C++        14 hrs 14 mins  █████████████████▒░░░░░░░   69.64 %
+Go           6 hrs 5 mins    ███████▒░░░░░░░░░░░░░░░░░   29.75 %
+C++          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+ObjectiveC   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+TSQL         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
