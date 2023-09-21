@@ -13,10 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 September 2023 - To: 19 September 2023
+From: 13 September 2023 - To: 20 September 2023
 
-C/C++   14 hrs 22 mins  █████████████████▓░░░░░░░   70.25 %
-Go      6 hrs 5 mins    ███████▒░░░░░░░░░░░░░░░░░   29.75 %
+C/C++          14 hrs 28 mins  █████████████░░░░░░░░░░░░   51.65 %
+Go             13 hrs 28 mins  ████████████░░░░░░░░░░░░░   48.10 %
+ActionScript   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
