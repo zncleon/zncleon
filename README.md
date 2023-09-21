@@ -23,5 +23,5 @@ ActionScript   4 mins          ░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-[![zncleon's github stats](https://github-readme-stats-psi-two-44.vercel.app/api?username=zncleon)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-psi-two-44.vercel.app/api/top-langs/?username=zncleon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![zncleon's github stats](https://github-readme-stats-psi-two-44.vercel.app/api?username=zncleon&show_icons=true&line_height=24&count_private=true&theme=vue)
+![Top Langs](https://github-readme-stats-psi-two-44.vercel.app/api/top-langs/?username=zncleon&layout=compact&langs_count=8&theme=vue)
