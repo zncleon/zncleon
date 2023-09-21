@@ -9,6 +9,7 @@
 
 ⏱ Weekly coding time
 [![Commits Badge](https://badges.pufler.dev/commits/weekly/zncleon)](https://badges.pufler.dev)
+![pv](https://pageview.vercel.app/?github_user=zncleon)
 
 <!--START_SECTION:waka-->
 
