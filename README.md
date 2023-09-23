@@ -18,6 +18,9 @@ From: 15 September 2023 - To: 22 September 2023
 
 Go               24 hrs 12 mins  ███████████████░░░░░░░░░░   60.50 %
 C/C++            15 hrs 39 mins  █████████▓░░░░░░░░░░░░░░░   39.14 %
+ActionScript     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+ObjectiveC       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Zed              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
