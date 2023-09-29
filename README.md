@@ -14,13 +14,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 September 2023 - To: 27 September 2023
+From: 21 September 2023 - To: 28 September 2023
 
-Go           23 hrs 11 mins  █████████████▓░░░░░░░░░░░   54.12 %
-C/C++        18 hrs 8 mins   ██████████▓░░░░░░░░░░░░░░   42.32 %
-CMake        1 hr 29 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
-Python       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Makefile     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Go           16 hrs 19 mins  ████████████▓░░░░░░░░░░░░   50.17 %
+C/C++        14 hrs 41 mins  ███████████▒░░░░░░░░░░░░░   45.15 %
+CMake        1 hr 29 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Makefile     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
