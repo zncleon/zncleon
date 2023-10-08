@@ -14,10 +14,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 September 2023 - To: 06 October 2023
+From: 30 September 2023 - To: 07 October 2023
 
-Go      15 hrs 12 mins  ████████████████████████▓   99.29 %
-C/C++   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Go   8 hrs 38 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
