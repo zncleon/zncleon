@@ -14,7 +14,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 October 2023 - To: 11 October 2023
+From: 05 October 2023 - To: 12 October 2023
 
 C/C++   1 hr 12 mins    ███████████████████▒░░░░░   77.29 %
 Go      21 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.71 %
