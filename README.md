@@ -14,12 +14,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 November 2023 - To: 13 November 2023
+From: 07 November 2023 - To: 14 November 2023
 
-C/C++        3 hrs 4 mins    █████████████████████▒░░░   85.64 %
-Go           27 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.67 %
-CMake        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-ObjectiveC   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+C/C++   1 hr 47 mins    ████████████████████████▓   98.20 %
+CMake   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
 ```
 
 <!--END_SECTION:waka-->
